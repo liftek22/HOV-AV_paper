@@ -9,5 +9,6 @@ Figured out a good way to store the large data files without copying them severa
 Also, knocked Fan Zuo for help and he came over and explained the results files data headers clearly and narrated through one agent's entire day.  For my personal visualization, it is important for me to just look at the dep_time and trav_time values. 
 
 
+Explored the `Counter` subclass from `collections`. 
 
 
