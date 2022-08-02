@@ -12,3 +12,13 @@ Also, knocked Fan Zuo for help and he came over and explained the results files 
 Explored the `Counter` subclass from `collections`. 
 
 
+## 2nd August 2022
+
+Wanted to find out the actual population.  Tried to do it from the counter.  Because it gives the number of trips for each agent. But I couldn't figure out a way to find the 'len' of a counter object. 
+
+Actually it would be easier to just find the number of unique values in the ID column. 
+
+https://www.geeksforgeeks.org/how-to-count-distinct-values-of-a-pandas-dataframe-column/
+
+
+
