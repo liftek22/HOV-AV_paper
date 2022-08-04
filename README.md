@@ -24,4 +24,10 @@ https://www.geeksforgeeks.org/how-to-count-distinct-values-of-a-pandas-dataframe
 
 ## 4th August 2022
 
-Calculated the modal spit. 
+Calculated the modal split. 
+
+
+Calculated the average travel time  and distance for base scenario. 
+
+Now do it for S1 scenario. 
+
