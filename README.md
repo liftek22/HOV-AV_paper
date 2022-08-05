@@ -34,4 +34,9 @@ Now do it for S1 scenario.
 
 ## 5th August 2022
 
+Trying to redo everything so far in a clean manner. 
+
+Can I plot the ridership?
+
+First, how do I see what kind of variable a variable is? Sol: Use `type(variable)`
 
