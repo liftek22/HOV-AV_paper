@@ -40,3 +40,6 @@ Can I plot the ridership?
 
 First, how do I see what kind of variable a variable is? Sol: Use `type(variable)`
 
+Ok, plotted some bar charts. 
+
+Now how do I see the quick increase decrease difference between the two scenarios?
