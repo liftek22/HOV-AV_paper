@@ -73,6 +73,21 @@ Process for future:
 3. Modify the path names in the Python notebook (both for the input xml files and the output result.csv and score.csv files)
 4. Run it
 
-
-
 -------
+
+
+Loaded all scenarios. Doublechecked that they are distinct. The first 6 ([ 0:5] ) entries gave all same.  But then did [10:25] index, got different results. 
+
+Visualized modal split for all. 
+
+Got rid of unnecessary legend.  https://www.geeksforgeeks.org/how-to-remove-the-legend-in-matplotlib/
+
+
+Now plotted all together to see the difference. Unfortunately some issues
+
+* only base is different
+*  S1 , S1MP, S3, S3MP all same.  S2 and S2MP different just because the modes are in different order. 
+
+
+
+
