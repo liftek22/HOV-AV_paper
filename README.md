@@ -83,10 +83,41 @@ Visualized modal split for all.
 Got rid of unnecessary legend.  https://www.geeksforgeeks.org/how-to-remove-the-legend-in-matplotlib/
 
 
+
+
 Now plotted all together to see the difference. Unfortunately some issues
 
 * only base is different
 *  S1 , S1MP, S3, S3MP all same.  S2 and S2MP different just because the modes are in different order. 
+
+
+
+
+--------
+
+LINK LEVEL ANALYSIS
+
+1.  Collect the linkstats files for each scenario
+2.  Extract gz files to get the txt files. 
+3. 
+
+
+
+TODO:  Understand the headers and the units for each header.  Why are the min, avg, max same for travel times? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
