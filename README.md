@@ -99,11 +99,19 @@ LINK LEVEL ANALYSIS
 
 1.  Collect the linkstats files for each scenario
 2.  Extract gz files to get the txt files. 
-3. 
+3. Load them 
+4. Reduce the dataframe sizes by keeping only the avg values and getting rid of the max and min values. 
 
 
 
 TODO:  Understand the headers and the units for each header.  Why are the min, avg, max same for travel times? 
+
+
+TODO:  here are 154 columns/ headers! Wow! First some basic link characteristics, then hour wise 'HRS' and travel times. The MP files then must have less stuff. But they still have 154. Why?   Ask Hella. 
+
+
+TODO:  Ask Hella - where does the 'pt' public transport tag come from? 
+
 
 
 
