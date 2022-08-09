@@ -50,3 +50,7 @@ Now how do I see the quick increase decrease difference between the two scenario
 TODO:   Check the difference between two scenarios above. 
 
 But first  - let's finite the notebook. 
+
+Opened a new notebook to do clean analysis and add my stuff.
+
+Original notebook is only going to be used for Hella's work exploration and my draft ideas. 
