@@ -108,10 +108,11 @@ LINK LEVEL ANALYSIS
 TODO:  Understand the headers and the units for each header.  Why are the min, avg, max same for travel times? 
 
 
-TODO:  here are 154 columns/ headers! Wow! First some basic link characteristics, then hour wise 'HRS' and travel times. The MP files then must have less stuff. But they still have 154. Why?   Ask Hella. 
+~~TODO: ~~ here are 154 columns/ headers! Wow! First some basic link characteristics, then hour wise 'HRS' and travel times. ~~ The MP files then must have less stuff. But they still have 154. Why?   Ask Hella. ~~
+Hella explained that MP scenarios are run for all 24 hours, but the capacities are changed to AV level only for the Morning Peak hours. 
 
-
-TODO:  Ask Hella - where does the 'pt' public transport tag come from? 
+~~TODO:  Ask Hella - where does the 'pt' public transport tag come from? ~~
+Probably in the first column - saw some labels.  ALthough not specifically pt. 
 
 
 ## 10th August
@@ -126,9 +127,10 @@ Use loc
 https://sparkbyexamples.com/pandas/how-to-slice-columns-in-pandas-dataframe/
 
 
-Did  `linkstats_S1MP_major.iloc[:, 50:55]     # 6 to 11 pm  Travel Time`
+~~Did  `linkstats_S1MP_major.iloc[:, 50:55]     # 6 to 11 pm  Travel Time`
 Showed values. But then why is this for Morning Peak only? 
-~~TODO: Ask Hella - the definition of MP scenario~~
+TODO: Ask Hella - the definition of MP scenario~~
+
 
 
 
