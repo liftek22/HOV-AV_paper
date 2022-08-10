@@ -108,7 +108,7 @@ LINK LEVEL ANALYSIS
 TODO:  Understand the headers and the units for each header.  Why are the min, avg, max same for travel times? 
 
 
-~~TODO: ~~ here are 154 columns/ headers! Wow! First some basic link characteristics, then hour wise 'HRS' and travel times. ~~ The MP files then must have less stuff. But they still have 154. Why?   Ask Hella. ~~
+~~TODO: here are 154 columns/ headers! Wow! First some basic link characteristics, then hour wise 'HRS' and travel times. ~~ The MP files then must have less stuff. But they still have 154. Why?   Ask Hella. ~~
 Hella explained that MP scenarios are run for all 24 hours, but the capacities are changed to AV level only for the Morning Peak hours. 
 
 ~~TODO:  Ask Hella - where does the 'pt' public transport tag come from? ~~
