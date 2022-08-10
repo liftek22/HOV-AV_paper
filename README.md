@@ -97,10 +97,11 @@ Now plotted all together to see the difference. Unfortunately some issues
 
 LINK LEVEL ANALYSIS
 
-1.  Collect the linkstats files for each scenario
+1.  Collect the linkstats files for each scenario - 
 2.  Extract gz files to get the txt files. 
 3. Load them 
 4. Reduce the dataframe sizes by keeping only the avg values and getting rid of the max and min values. 
+5.  Get rid of the rows representing transit links. 
 
 
 
@@ -111,6 +112,11 @@ TODO:  here are 154 columns/ headers! Wow! First some basic link characteristics
 
 
 TODO:  Ask Hella - where does the 'pt' public transport tag come from? 
+
+
+## 10th August
+
+
 
 
 
