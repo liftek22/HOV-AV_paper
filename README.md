@@ -159,6 +159,8 @@ This should be helpful in the future: https://stackoverflow.com/questions/129459
 
 FOr the time being let's just make it vertical
 
+Also helpful: https://stackoverflow.com/questions/44813601/how-to-set-x-axis-values-in-matplotlib-python 
+But having trouble defining 'x'
 
 
 
