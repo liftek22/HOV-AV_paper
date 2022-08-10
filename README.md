@@ -139,6 +139,27 @@ TODO: Ask Hella - the definition of MP scenario~~
 
 Tring to do strikethroughs. This seems helpful https://stackoverflow.com/questions/41395000/strikethrough-code-in-markdown-on-github
 
+Now we will find average volume by hour. 
+
+
+TODO:  Ask Hella.  Is HRS really volume.  ANd is TRAVELTIME really speed.  What are the units. 
+
+
+TODO: Ask Hella/ Farnoosh 
+ISSUE - The index issue - why does `iloc[:, 32:56]` works but if I do `iloc[:, 56]`, it says out of bounds?
+
+
+Calculated new dataframes that holds mean hourly volumes and mean hourly speed over 24 hours for each scenario. 
+
+Let's take a look at it graphically. 
+
+How do I change the x-ticks to make them clearer? 
+
+This should be helpful in the future: https://stackoverflow.com/questions/12945971/pandas-timeseries-plot-setting-x-axis-major-and-minor-ticks-and-labels
+
+FOr the time being let's just make it vertical
+
+
 
 
 
