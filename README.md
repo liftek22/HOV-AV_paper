@@ -110,14 +110,14 @@ TODO:  Understand the headers and the units for each header.  Why are the min, a
 
  here are 154 columns/ headers! Wow! First some basic link characteristics, then hour wise 'HRS' and travel times.
  <strike>
- ~~The MP files then must have less stuff.
+ The MP files then must have less stuff.
  But they still have 154. Why? 
- Ask Hella. ~~
+ Ask Hella. 
  </strike>
 Hella explained that MP scenarios are run for all 24 hours, but the capacities are changed to AV level only for the Morning Peak hours. 
 
-~~TODO:  Ask Hella - where does the 'pt' public transport tag come from?
-Probably in the first column - saw some labels.  ALthough not specifically pt. 
+<strike>TODO:  Ask Hella - where does the 'pt' public transport tag come from?
+Probably in the first column - saw some labels.  ALthough not specifically pt. </strike>
 
 
 ## 10th August
