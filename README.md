@@ -128,7 +128,7 @@ Now rewriting code in an efficient way.
 
 
 How do I view a chunk of data in a dataframe? 
-Use loc
+Use iloc
 https://sparkbyexamples.com/pandas/how-to-slice-columns-in-pandas-dataframe/
 
 
