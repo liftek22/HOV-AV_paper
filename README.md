@@ -162,7 +162,7 @@ FOr the time being let's just make it vertical
 Also helpful: https://stackoverflow.com/questions/44813601/how-to-set-x-axis-values-in-matplotlib-python 
 But having trouble defining 'x'
 
-### 11th August 2022
+## 11th August 2022
 
 Figured out the problem with the mode order for scenario 2 in modal split calculation.  Basically, counter item is a dictionary item and it follows insertion order.  
 In Scenario 2 probably - that particular mode came first. 
