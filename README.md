@@ -167,6 +167,9 @@ But having trouble defining 'x'
 Figured out the problem with the mode order for scenario 2 in modal split calculation.  Basically, counter item is a dictionary item and it follows insertion order.  
 In Scenario 2 probably - that particular mode came first. 
 
+We can reindex. https://stackoverflow.com/questions/46890972/swapping-rows-within-the-same-pandas-dataframe
+
+This reindexing didn't work.  It switches the indexes all right but turns values into NaN
 
 
 
