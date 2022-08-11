@@ -172,6 +172,9 @@ We can reindex. https://stackoverflow.com/questions/46890972/swapping-rows-withi
 This reindexing didn't work.  It switches the indexes all right but turns values into NaN
 
 
+Hella working with me in office.  
+* Figuring out FID  -  It's an unique identifier in the shape file. 
+* We figured out the units of all the headers in the Linkstats file. 
 
 
 
