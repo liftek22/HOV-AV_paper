@@ -188,8 +188,12 @@ Added scenario description details.
 Reread the above. 
 
 
+Goal is to solve the reindexing issue of 'ridership' data.  So that the ridership info for all scenarios have the modes in the same order. 
+
+Instead of trying to use reindexing strategies for the troublesome scenarios which didn't work earlier, we will simply use sorting of rows is alphabetical order for ALL scenarios. 
 
 
+Sorting is learned from https://chrisalbon.com/code/python/data_wrangling/pandas_sorting_rows_dataframe/
 
 
 
