@@ -49,7 +49,7 @@ Now how do I see the quick increase decrease difference between the two scenario
 
 TODO:   Check the difference between two scenarios above. 
 
-But first  - let's finite the notebook. 
+But first  - let's finish the notebook. 
 
 Opened a new notebook to do clean analysis and add my stuff.
 
@@ -182,6 +182,12 @@ Hella working with me in office.
 ## 24th September 2022
 
 Added scenario description details. 
+
+## 25th September 2022
+
+Reread the above. 
+
+
 
 
 
