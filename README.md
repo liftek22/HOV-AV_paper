@@ -196,6 +196,18 @@ Instead of trying to use reindexing strategies for the troublesome scenarios whi
 Sorting is learned from https://chrisalbon.com/code/python/data_wrangling/pandas_sorting_rows_dataframe/
 
 
+## 26th July 
+
+Loaded link data for all 7 scenarios.
+
+
+Clean up max and min values ( keep only avg). And remove public transit info.  The first cleanup removes columns.  Second cleanup (public transit removes rows). 
+
+Set aside data for major links by keeping only the links with freespeed 9m/s and higher.  QUESTION: Won't this be same for all scenarios? Is it necessary to do eat for each scenario? Just have an index of links where freespeed in 9m/s and higher? 
+
+Wait, what is that freespeed? It will change with capacity, right?
+
+Checked the generated 'major' link dataframes.  Exact same number of rows for all 7 scenarios.  So we could have just used the index of base and applied it for all (TODO WHEN TIME). 
 
 
 
