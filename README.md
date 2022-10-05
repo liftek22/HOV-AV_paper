@@ -218,7 +218,11 @@ Set up original copy of Hella's analysis.  Her 'f4' naming was getting very conf
 Just running each cell slowly and deliberately took half and hour. 
 
 
-Instead of rename the link column in all the different scenario dataframes (7+7=14 dataframes), why don't I just rename the borough file's ID to LINK and then match that ? 
+NOTE: Instead of rename the link column in all the different scenario dataframes (7+7=14 dataframes), why don't I just rename the borough file's ID to LINK and then match that ?  Yes, we can! 
+
+I think I found the origin of error for which the graphs weren;t showing any different scenario to scenario for linkstat analysis! Was loading S1 and S1MP for S2,S3 and their MPs respectively! No wonder :/ 
+
+
 
 
 
