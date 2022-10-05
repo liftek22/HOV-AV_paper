@@ -196,7 +196,7 @@ Instead of trying to use reindexing strategies for the troublesome scenarios whi
 Sorting is learned from https://chrisalbon.com/code/python/data_wrangling/pandas_sorting_rows_dataframe/
 
 
-## 26th July 
+## 26th September
 
 Loaded link data for all 7 scenarios.
 
@@ -210,6 +210,12 @@ Wait, what is that freespeed? It will change with capacity, right?
 Checked the generated 'major' link dataframes.  Exact same number of rows for all 7 scenarios.  So we could have just used the index of base and applied it for all (TODO WHEN TIME). 
 
 
+
+## 5th October
+
+Set up original copy of Hella's analysis.  Her 'f4' naming was getting very confusing with my 'S1', 'S1_MP' namings in the Walkthrough notebook. 
+
+Just running each cell slowly and deliberately took half and hour. 
 
 
 
