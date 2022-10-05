@@ -218,6 +218,7 @@ Set up original copy of Hella's analysis.  Her 'f4' naming was getting very conf
 Just running each cell slowly and deliberately took half and hour. 
 
 
-
+Calculated how many links in each borough. 
+Double checked number of links per borough for each borough linkstat file. 
 
 
