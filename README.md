@@ -225,6 +225,8 @@ I think I found the origin of error for which the graphs weren;t showing any dif
 PROBLEM:  Want to extract gz file to get txt files.  According to previous notes about, use 7-zip. But when I select gz file, 'Extract' option doesn't come automatically.  
 SOLUTION: Open the 7-zip program explicitly and  extract the gz file from there. 
 
+Graphs look promising now. 
 
+## 6th October
 
-
+Continuing to make volume_compare dataframe of each borough.  
