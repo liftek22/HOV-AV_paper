@@ -222,6 +222,8 @@ NOTE: Instead of rename the link column in all the different scenario dataframes
 
 I think I found the origin of error for which the graphs weren;t showing any different scenario to scenario for linkstat analysis! Was loading S1 and S1MP for S2,S3 and their MPs respectively! No wonder :/ 
 
+PROBLEM:  Want to extract gz file to get txt files.  According to previous notes about, use 7-zip. But when I select gz file, 'Extract' option doesn't come automatically.  
+SOLUTION: Open the 7-zip program explicitly and  extract the gz file from there. 
 
 
 
