@@ -218,6 +218,7 @@ Set up original copy of Hella's analysis.  Her 'f4' naming was getting very conf
 Just running each cell slowly and deliberately took half and hour. 
 
 
+Instead of rename the link column in all the different scenario dataframes (7+7=14 dataframes), why don't I just rename the borough file's ID to LINK and then match that ? 
 
 
 
