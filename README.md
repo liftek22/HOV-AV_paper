@@ -241,3 +241,11 @@ Travel time :  in hours
 
 
 Check whether 7:31 is indeed volume 32:56 is indeed travel time. Both ranges (substraction) gives 24.   Tried things like: `StatIsland_S3.iloc[1:5, 7:31]`.  Yes, both ranges are correct. 
+
+
+PROBLEM
+Trying to figure out whether there is a 'search and replace' option in firefox.  So far no good answer :/ https://superuser.com/questions/463342/how-can-i-search-and-replace-in-firefox
+
+Better query was 'find and replace in jupyter'. Showed me a 'find and replace' option under edit. But it does 'replace all' :/  No way to do a few replacement
+
+SUGGESTION IDEA for Jupyter
