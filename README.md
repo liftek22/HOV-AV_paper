@@ -238,3 +238,6 @@ Volume:  vehicles/hour
 Travel time :  in hours
 
 [Source: MATSim Book 2016] 
+
+
+Check whether 7:31 is indeed volume 32:56 is indeed travel time. Both ranges (substraction) gives 24.   Tried things like: `StatIsland_S3.iloc[1:5, 7:31]`.  Yes, both ranges are correct. 
