@@ -230,3 +230,11 @@ Graphs look promising now.
 ## 6th October
 
 Continuing to make volume_compare dataframe of each borough.  
+
+
+UNITS
+
+Volume:  vehicles/hour
+Travel time :  in hours
+
+[Source: MATSim Book 2016] 
