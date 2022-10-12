@@ -249,3 +249,10 @@ Trying to figure out whether there is a 'search and replace' option in firefox. 
 Better query was 'find and replace in jupyter'. Showed me a 'find and replace' option under edit. But it does 'replace all' :/  No way to do a few replacement
 
 SUGGESTION IDEA for Jupyter
+
+
+## 12th October
+
+Downloading graphs for Hella - borough-wise.  Need a smarter way to do this. 
+
+
